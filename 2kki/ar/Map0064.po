@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 454, Page 1, Line 1, Pos (177,64)
+#. ID 557, Page 1, Line 1, Pos (117,203)
+#. ID 571, Page 1, Line 1, Pos (94,181)
+#. ID 572, Page 1, Line 1, Pos (188,60)
+#. ID 673, Page 1, Line 1, Pos (163,60)
+#. ID 708, Page 1, Line 1, Pos (71,201)
+#. ID 709, Page 1, Line 1, Pos (79,214)
+#. ID 710, Page 1, Line 1, Pos (138,211)
+#. ID 719, Page 1, Line 1, Pos (126,225)
+#. ID 729, Page 1, Line 1, Pos (184,56)
+#. ID 730, Page 1, Line 1, Pos (175,56)
+msgid "この扉は開けます！"
+msgstr ""
+

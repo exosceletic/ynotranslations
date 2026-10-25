@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 82, Page 1, Line 22, Pos (2,0)
+msgid ""
+"\\>\\c[1]【このﾒｯｾｰｼﾞが見えたらﾊﾞｸﾞ報告お願いします】\\c[0]\n"
+"\\>MAP0082から予期せぬMAP IDへ移動しようとしました。\n"
+"\\>\\c[2]移動先MAPID\\c[3]:\\c[0]\\v[0001]\n"
+"\\>\\c[2]移動先X\\c[3]:\\c[0]\\v[0002] \\c[2]移動先Y\\c[3]:\\c[0]\\v[0003]"
+msgstr ""
+

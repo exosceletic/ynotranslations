@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 2, Line 3, Pos (1,1)
+msgid "\\>天候を決めるです！"
+msgstr ""
+
+#. ID 2, Page 2, Line 49, Pos (1,1)
+#. Contains choice at line 2 (3 options)
+msgid "\\>この天気(\\V[1])でいいですか？"
+msgstr ""
+
+#. ID 2, Page 2, Line 50, Pos (1,1)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>いいです\n"
+"\\>よくないです\n"
+"\\>ランダムで頼む"
+msgstr ""
+

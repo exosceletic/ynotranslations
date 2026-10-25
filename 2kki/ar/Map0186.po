@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 31, Page 1, Line 9, Pos (143,205)
+#. ID 32, Page 1, Line 9, Pos (140,204)
+#. ID 35, Page 1, Line 9, Pos (143,201)
+#. ID 38, Page 1, Line 9, Pos (146,203)
+#. ID 518, Page 1, Line 9, Pos (132,203)
+#. ID 519, Page 1, Line 9, Pos (153,200)
+#. ID 520, Page 1, Line 9, Pos (158,204)
+#. ID 521, Page 1, Line 9, Pos (164,201)
+#. ID 522, Page 1, Line 9, Pos (135,205)
+#. ID 523, Page 1, Line 9, Pos (152,205)
+#. ID 524, Page 1, Line 9, Pos (137,202)
+#. ID 525, Page 1, Line 9, Pos (154,203)
+#. ID 526, Page 1, Line 9, Pos (161,203)
+#. ID 527, Page 1, Line 9, Pos (134,201)
+#. ID 528, Page 1, Line 9, Pos (150,202)
+#. ID 529, Page 1, Line 9, Pos (157,201)
+#. ID 530, Page 1, Line 9, Pos (164,205)
+#. ID 750, Page 1, Line 12, Pos (201,155)
+#. ID 774, Page 1, Line 12, Pos (203,156)
+#. ID 794, Page 1, Line 12, Pos (203,150)
+#. ID 795, Page 1, Line 12, Pos (201,151)
+#. ID 796, Page 1, Line 12, Pos (205,157)
+#. ID 797, Page 1, Line 12, Pos (207,158)
+#. ID 798, Page 1, Line 12, Pos (205,149)
+#. ID 799, Page 1, Line 12, Pos (207,148)
+#. ID 800, Page 1, Line 8, Pos (215,148)
+#. ID 801, Page 1, Line 8, Pos (218,151)
+#. ID 802, Page 1, Line 8, Pos (216,150)
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+

@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 31, Page 4, Line 9, Pos (1,0)
+msgid ""
+"\\>　　　　　　 　　GAME OVER\\<\n"
+"\n"
+"\\>　　　　　　 　 YOUR　SCORE\\<\n"
+"\\>　　　　　　　　 　\\V[1010]\\<"
+msgstr ""
+
+#. ID 31, Page 4, Line 15, Pos (1,0)
+msgid ""
+"\n"
+"\\>　　　　　　 　HIGH SCORE！\\<"
+msgstr ""
+
