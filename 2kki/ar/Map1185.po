@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 3, Line 221, Pos (0,4)
+msgid ""
+"\\>\\c[1]【このﾒｯｾｰｼﾞが見えたらﾊﾞｸﾞ報告お願いします】\\c[0]\n"
+"\\>存在しない場所移動IDが指定されました。\n"
+"\\>MAPID:1185 X:\\V[0001] Y:\\V[0002]\n"
+"\\>V[0006]:\\V[0006]"
+msgstr ""
+

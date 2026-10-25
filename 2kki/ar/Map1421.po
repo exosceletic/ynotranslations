@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (57,39)
+msgid "\\>世界移動エリア\\<"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (3,39)
+msgid "\\>BGMエリア\\<"
+msgstr ""
+
+#. ID 17, Page 1, Line 1, Pos (57,10)
+msgid "\\>つぶやきエリア\\<"
+msgstr ""
+
+#. ID 18, Page 1, Line 1, Pos (45,9)
+msgid ""
+"\\>最近接続が追加されていなかったり接続がやけに少ない繋ぎ部屋に\n"
+"追加世界を与えて救済しようのコーナー★\n"
+"\\<"
+msgstr ""
+
+#. ID 18, Page 1, Line 4, Pos (45,9)
+msgid ""
+"\\>・釈迦世界\n"
+"★公園世界\n"
+"・きのこ世界\n"
+"・校内の通路\\<"
+msgstr ""
+
+#. ID 18, Page 1, Line 8, Pos (45,9)
+msgid ""
+"\\>・打捨てる絵画\n"
+"・砂時計砂漠\n"
+"★ぐるぐる\\<\n"
+"・冥府"
+msgstr ""
+
+#. ID 18, Page 1, Line 12, Pos (45,9)
+msgid ""
+"\\>このへんに新要素追加したいですねぇ。\n"
+"\\<"
+msgstr ""
+
+#. ID 19, Page 1, Line 1, Pos (46,9)
+msgid "\\>別の製作者さんの世界を積極的に接続していきたい\\<"
+msgstr ""
+
+#. ID 19, Page 1, Line 2, Pos (46,9)
+msgid "\\>異なる作風やグラフィックが繋がっているのが好きなので…\\<"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (46,9)
+msgid ""
+"\\>ただ他の製作者さんに直談判するのは緊張しますね\n"
+"一歩間違えると世界の構造や雰囲気といった大事なものを\n"
+"ぶっこわしてしまう可能性がありますし\n"
+"\\<"
+msgstr ""
+
+#. ID 19, Page 1, Line 7, Pos (46,9)
+msgid ""
+"\\>というわけで一人で奥に奥に伸ばすタイプの製作者さんに\n"
+"色々と繋ぎを作らせてほしいです！！！！\n"
+"接続させてくれる作者さん大募集！！！！！！\\<"
+msgstr ""
+
+#. ID 19, Page 1, Line 10, Pos (46,9)
+msgid ""
+"\\>これを読んでいて、なおかつ接続オッケー！という方は\n"
+"こっそり連絡くださるとうれしいです……\n"
+"よろしくお願いします。\\<"
+msgstr ""
+
+#. ID 23, Page 1, Line 15, Pos (4,23)
+msgid "\\>ベンチイベントです。コモンイベントで座ります。"
+msgstr ""
+
+#. ID 23, Page 1, Line 16, Pos (4,23)
+msgid "\\>特別な意図が無い限りベンチは統一しましょう。"
+msgstr ""
+
+#. ID 23, Page 1, Line 17, Pos (4,23)
+msgid ""
+"\\>各部屋にあったカラーを使ってください。\n"
+"\\>オリジナルカラーを作ってもよいでしょう。"
+msgstr ""
+
+#. ID 23, Page 1, Line 25, Pos (4,23)
+msgid ""
+"\\>椅子イベント\n"
+"\\>コピペだけでいけるよ\n"
+"\\>上を向いてないと座れないよ"
+msgstr ""
+
+#. ID 23, Page 1, Line 28, Pos (4,23)
+msgid ""
+"\\>すわる部分のマップチップのプライオリティは必ず×で\n"
+"\\>背もたれの\n"
+"\\>マップチップのプライオリティが★だと\n"
+"\\>座ったときに見た目が変になるので注意"
+msgstr ""
+
+#. ID 35, Page 1, Line 3, Pos (4,25)
+msgid "サイコロ没収"
+msgstr ""
+
+#. ID 35, Page 1, Line 7, Pos (4,25)
+msgid "サイコロ獲得"
+msgstr ""
+

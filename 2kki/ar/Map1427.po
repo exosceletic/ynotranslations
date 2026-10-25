@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 22, Pos (0,3)
+msgid ""
+"2521:単振動の振動中心座標（餃子の揺れはじめのY座標）\n"
+"2533:単振動の振幅に関する反比例定数\n"
+"2534:現在の位相（度数表記、0～360000でループ）"
+msgstr ""
+
+#. ID 45, Page 1, Line 1, Pos (3,7)
+#. Condition (Actor Name = 【バグ修正後の処理の説明 by 2i9】)
+msgctxt "actors.name"
+msgid "【バグ修正後の処理の説明 by 2i9】"
+msgstr ""
+

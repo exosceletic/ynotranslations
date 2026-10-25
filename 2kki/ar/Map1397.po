@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 1, Pos (0,0)
+msgid ""
+"作った曲から世界が生まれました\n"
+"星座からの接続、案外悪くないかも？\n"
+"星座の名前と形も覚えられるし\n"
+"接続募集中です"
+msgstr ""
+

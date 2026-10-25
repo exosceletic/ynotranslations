@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (13,6)
+msgid ""
+"\\>\\C[3]＞自販機コモンのテスト\\C[0]\n"
+"\\>・出現する商品を指定 (0の場合は指定なし)\n"
+"\\>"
+msgstr ""
+
+#. ID 4, Page 1, Line 2, Pos (12,6)
+msgid "\\>表示されなかった商品の数 : \\V[1]"
+msgstr ""
+

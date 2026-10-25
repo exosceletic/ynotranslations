@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 248, Page 1, Line 10, Pos (80,21)
+msgid ""
+"\\>\\C[\\V[1]] 2791（サワー)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 248, Page 1, Line 25, Pos (80,21)
+msgid ""
+"\\>\\C[\\V[1]] 2792（金魚遮断)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 248, Page 1, Line 40, Pos (80,21)
+msgid ""
+"\\>\\C[\\V[1]] 2793（チーズケーキ山)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 248, Page 1, Line 55, Pos (80,21)
+msgid ""
+"\\>\\C[\\V[1]] 2794（夕蛾廊)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 248, Page 1, Line 70, Pos (80,21)
+msgid ""
+"\\>\\C[\\V[1]] 2795（山羊座パレス)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 248, Page 1, Line 85, Pos (80,21)
+msgid ""
+"\\>\\C[\\V[1]] 2796(ウミウシ和室)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 248, Page 1, Line 100, Pos (80,21)
+msgid ""
+"\\>\\C[\\V[1]] 2797(溟懐ハイウェイ)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 248, Page 1, Line 115, Pos (80,21)
+msgid ""
+"\\>\\C[\\V[1]] 2798(菓子物件)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 248, Page 1, Line 130, Pos (80,21)
+msgid ""
+"\\>\\C[\\V[1]] 2799(ミアズマ)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 248, Page 1, Line 145, Pos (80,21)
+msgid ""
+"\\>\\C[\\V[1]] 2800(夢ゴルフ場)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 319, Page 1, Line 10, Pos (102,11)
+msgid ""
+"\\>\\C[\\V[1]] 3361（ユメカワオーシャン)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 319, Page 1, Line 25, Pos (102,11)
+msgid ""
+"\\>\\C[\\V[1]] 3362（リバイバルなんごく)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 319, Page 1, Line 40, Pos (102,11)
+msgid ""
+"\\>\\C[\\V[1]] 3363（見世物団)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 319, Page 1, Line 55, Pos (102,11)
+msgid ""
+"\\>\\C[\\V[1]] 3364（沈没船マンション)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 319, Page 1, Line 70, Pos (102,11)
+msgid ""
+"\\>\\C[\\V[1]] 3365（曇天まほろば)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 319, Page 1, Line 85, Pos (102,11)
+msgid ""
+"\\>\\C[\\V[1]] 3366(尻尾職人)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 319, Page 1, Line 100, Pos (102,11)
+msgid ""
+"\\>\\C[\\V[1]] 3367(蟹座パレス)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 319, Page 1, Line 115, Pos (102,11)
+msgid ""
+"\\>\\C[\\V[1]] 3368(ゲロ温泉)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 319, Page 1, Line 130, Pos (102,11)
+msgid ""
+"\\>\\C[\\V[1]] 3369(ポテ塔)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 319, Page 1, Line 145, Pos (102,11)
+msgid ""
+"\\>\\C[\\V[1]] 3370(唄う焼却炉)\n"
+"\\>\\N[1]"
+msgstr ""
+

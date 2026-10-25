@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 145, Page 1, Line 1, Pos (8,0)
+msgid ""
+"ものすごくメタい話だが\n"
+"こんな二番煎じまみれのマップを完成させるほどの\n"
+"力が私には残ってない\n"
+"(後々消すかもしれないので収集要素は置かない)"
+msgstr ""
+
+#. ID 145, Page 1, Line 5, Pos (8,0)
+msgid ""
+"このマップを作るきっかけとなったアイデア(K氏?の)\n"
+"はとてもよいので、アイデアだけは残しておきたい"
+msgstr ""
+
