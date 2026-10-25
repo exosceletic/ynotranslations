@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 25, Page 3, Line 23, Pos (1,4)
+msgid ""
+"\\>変数4270の値が不正です\n"
+"\\>CEV:---- MAP:\\V[28] XY:\\V[24],\\V[25]\n"
+"\\>V4270:\\V[4270]\n"
+"\\>10秒後、仮の値で処理を続行します\\<\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\^"
+msgstr ""
+

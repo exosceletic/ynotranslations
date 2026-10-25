@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 1, Pos (25,56)
+msgid ""
+"\\>共用設定：大きさが-1以下か、\n"
+"\\>ぺんぎんの長押し効果中であれば通過可能。"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (25,56)
+msgid ""
+"\\>通行不可判定になるマスでエフェ解除すると\n"
+"\\>顔半分が埋まるけど、おもしろいのでそのまま。\n"
+"\n"
+"\\>…「ちょっとかがめば通れるんじゃね？」は禁止。"
+msgstr ""
+
+#. ID 5, Page 1, Line 7, Pos (25,56)
+msgid ""
+"\\>線路の方からはすっぴんでも入れます。\n"
+"\\>ただし「横から失礼」することになる。気をつけよう。"
+msgstr ""
+
+#. ID 26, Page 1, Line 1, Pos (11,6)
+msgid "\\>代価移住へ。"
+msgstr ""
+
+#. ID 137, Page 3, Line 23, Pos (1,3)
+msgid ""
+"\\>変数4270の値が不正です\n"
+"\\>CEV:---- MAP:\\V[28] XY:\\V[24],\\V[25]\n"
+"\\>V4270:\\V[4270]\n"
+"\\>10秒後、仮の値で処理を続行します\\<\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\^"
+msgstr ""
+

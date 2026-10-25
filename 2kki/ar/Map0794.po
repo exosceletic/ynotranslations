@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 70, Page 1, Line 1, Pos (65,88)
+msgid ""
+"地形ID16の上だとシフトキーのｴﾌｪｸﾄﾁｪﾝｼﾞや\n"
+"メニューが開けないようになっています\n"
+"でも、長押し効果は発動できるよ！"
+msgstr ""
+
+#. ID 70, Page 2, Line 1, Pos (65,88)
+msgid ""
+"地形ID16の上だとシフトキーのｴﾌｪｸﾄﾁｪﾝｼﾞや\n"
+"メニューが開けないようになるよ\n"
+"でも、長押し効果は発動できるよ～"
+msgstr ""
+
+#. ID 80, Page 1, Line 1, Pos (74,299)
+msgid ""
+"\\>このイベントは\n"
+"\\>イベント開始条件　主人公が触れたとき\n"
+"\\>プライオリティタイプ　通常キャラの下\n"
+"\\>のイベントです"
+msgstr ""
+
+#. ID 80, Page 1, Line 5, Pos (74,299)
+msgid ""
+"\\>ペンギン腹すべり中は仕様で実行できないので\n"
+"\\>モグラでせき止めます"
+msgstr ""
+
+#. ID 738, Page 3, Line 27, Pos (1,4)
+#. Condition (Actor Name = ガラス橋修復)
+msgctxt "actors.name"
+msgid "ガラス橋修復"
+msgstr ""
+

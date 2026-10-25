@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 1, Pos (19,15)
+msgid ""
+"ここはイェリスのデバッグルームです。\n"
+"右隣りのコーンでは後ろ向きに座れます。\n"
+"上からでも下からでも座れます。"
+msgstr ""
+
+#. ID 18, Page 2, Line 2, Pos (0,0)
+msgid ""
+"ここはイェリスのデバッグルームです。\n"
+"ほほをつねって起きるか、\n"
+"デバッグでお帰りください。"
+msgstr ""
+
+#. ID 22, Page 1, Line 1, Pos (21,15)
+msgid ""
+"ここはイェリスのデバッグルームです。\n"
+"左隣りのコーンでは後ろ向きに座れます。\n"
+"上からでも下からでも座れます。"
+msgstr ""
+
+#. ID 32, Page 2, Line 2, Pos (19,12)
+#. ID 33, Page 2, Line 2, Pos (20,12)
+#. ID 34, Page 2, Line 2, Pos (21,12)
+msgid ""
+"ここはイェリスのデバッグルームです。\n"
+"ただいま2イベント以上を同時に消去する実験中です。"
+msgstr ""
+
+#. ID 37, Page 1, Line 2, Pos (24,15)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ここはイェリスのデバッグルームです。\n"
+"透明になりますか、それとも戻りますか？"
+msgstr ""
+
+#. ID 37, Page 1, Line 4, Pos (24,15)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"透明になる\n"
+"元に戻る"
+msgstr ""
+
+#. ID 49, Page 1, Line 2, Pos (24,17)
+msgid ""
+"ここはイェリスのデバッグルームです。\n"
+"お金を増減しますか？\n"
+"最低で0、最高で999999夢にできます。\n"
+"(キャンセルキーで何もしません)"
+msgstr ""
+
+#. ID 49, Page 1, Line 6, Pos (24,17)
+#. Choice (2 options)
+msgid ""
+"増やす\n"
+"減らす"
+msgstr ""
+
+#. ID 49, Page 1, Line 8, Pos (24,17)
+msgid "増やす金額を入力してください。"
+msgstr ""
+
+#. ID 49, Page 1, Line 13, Pos (24,17)
+msgid "減らす金額を入力してください。"
+msgstr ""
+

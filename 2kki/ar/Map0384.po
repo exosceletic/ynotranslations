@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 1, Pos (56,96)
+#. ID 14, Page 1, Line 1, Pos (54,96)
+#. ID 44, Page 1, Line 1, Pos (35,71)
+msgid "\\>共通で使うオブジェクトです"
+msgstr ""
+
+#. ID 4, Page 1, Line 2, Pos (56,96)
+#. ID 14, Page 1, Line 2, Pos (54,96)
+#. ID 44, Page 1, Line 2, Pos (35,71)
+msgid "\\>自販機は、特別のことが無い限り統一しましょう。"
+msgstr ""
+
+#. ID 282, Page 1, Line 20, Pos (53,98)
+#. ID 283, Page 1, Line 20, Pos (57,98)
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+

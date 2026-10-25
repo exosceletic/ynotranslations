@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 24, Pos (5,11)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　ﾒﾆｭｰﾀｲﾌﾟ99(楓)\\<\\|\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 43, Pos (5,11)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　 元のﾒﾆｭｰﾀｲﾌﾟ\\<\\|\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 59, Pos (5,11)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　ﾒﾆｭｰﾀｲﾌﾟお試し\\<\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 2, Pos (2,11)
+msgid ""
+"\\>★蘇生スイッチ\n"
+"\\>　　 殺傷ﾀﾞﾒﾀﾞﾒ!\n"
+"\\>　　 ※枯葉へワープするタイミングにて1/4で復活\n"
+"\\>　　 ※今殺した場合は入り直さないと再登場しません"
+msgstr ""
+
+#. ID 3, Page 2, Line 6, Pos (2,11)
+msgid ""
+"\\>★蘇生スイッチ\n"
+"\\>　　 殺傷ﾀﾞﾒﾀﾞﾒ!\n"
+"\\>　　 ※楓神社にてお賽銭入れると1/8で復活"
+msgstr ""
+
+#. ID 4, Page 2, Line 5, Pos (1,1)
+#. Contains choice at line 2 (2 options)
+msgid "\\>Reload?"
+msgstr ""
+
+#. ID 4, Page 2, Line 6, Pos (1,1)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 3, Pos (4,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+
+#. ID 4, Page 2, Line 9, Pos (1,1)
+#. Choice (2 options)
+msgid ""
+"Normal(switch off all Handy_S)\n"
+"Without switch off Handy_S"
+msgstr ""
+
+#. ID 9, Page 2, Line 1, Pos (2,1)
+#. Choice (4 options)
+msgid ""
+"MAP0621 Ca(ｶﾙｼｳﾑ)\n"
+"MAP0622 Ca_迷\n"
+"MAP0623 ﾍﾟﾝｷﾞﾝ防止応用A\n"
+"MAP0624 Ca_枯葉"
+msgstr ""
+
+#. ID 9, Page 2, Line 15, Pos (2,1)
+#. Choice (4 options)
+msgid ""
+"MAP0625 Ca_楓神社\n"
+"undefined\n"
+"undefined\n"
+"undefined"
+msgstr ""
+
+#. ID 21, Page 1, Line 2, Pos (4,11)
+#. Contains choice at line 2 (2 options)
+msgid "\\>Move:MAP0623 ﾍﾟﾝｷﾞﾝ防止応用A"
+msgstr ""
+
+#. ID 23, Page 1, Line 1, Pos (3,11)
+msgid "\\>switch off S[2762]"
+msgstr ""
+
+#. ID 33, Page 1, Line 78, Pos (9,8)
+msgid "…もうチェンソーはやめてね(遠い目)"
+msgstr ""
+
+#. ID 33, Page 1, Line 87, Pos (9,8)
+msgid ""
+"\\>どうもCaです。\n"
+"\\>…。何もない部屋です。\n"
+"\\>細かい話はEV0001(0,0)をお読みください。"
+msgstr ""
+
+#. ID 33, Page 1, Line 90, Pos (9,8)
+msgid ""
+"\\>軽く自己紹介するなら…蕎麦が好きです。(ぇ\n"
+"\\>ﾂｸｰﾙ初心者(もどき)。本業はｳｪﾌﾞﾃﾞｻﾞｲﾅｰ"
+msgstr ""
+
+#. ID 33, Page 1, Line 92, Pos (9,8)
+msgid ""
+"\\>背景のパターンについて:\n"
+"\\>破線が16x16、チェックが1マス8x8になっています。\n"
+"\\>キャラクターのサイズ確認用。"
+msgstr ""
+
+#. ID 33, Page 1, Line 95, Pos (9,8)
+msgid ""
+"\\>その他/Caの飼い方\n"
+"\\>1 虫が嫌いです。あと返り討ちに遭うので\n"
+"\\>　刺してはいけません。(意味深)"
+msgstr ""
+
